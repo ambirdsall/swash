@@ -6,10 +6,6 @@ tactical CHOICES, not execution; that use good music programmatically; and that
 resolve before they wear out their welcome), and world exploration are the shit.
 
 ### World
-At all times, the player is in an area; and every area is within a region. Every
-region has a musical theme; every area has a unique variation on that theme. The
-only exception is maybe if location is trumped by a surprise boss fight; but
-encounters should be geographically determined.
 #### Music
 120 bpm is standard; maybe things can speed up during a boss fight or such?
 
@@ -23,6 +19,10 @@ chords, which is just basically the shit, and enables really cool, distinctive
 feels for different areas.
 
 #### Geo(graph|metr)y
+At all times, the player is in an area; and every area is within a region. Every
+region has a musical theme; every area has a unique variation on that theme. The
+only exception is maybe if location is trumped by a surprise boss fight; but
+encounters should be geographically determined.
 ##### Regions
 1. have one or two areas that are significant to the plot or that are subplots:
   * unlock an ability

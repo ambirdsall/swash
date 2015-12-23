@@ -120,11 +120,16 @@ Layering different tempi at the same rhythm enables shifting polyrhythms and
 chords, which is just basically the shit, and enables really cool, distinctive
 feels for different areas.
 
+In Skies of Arcadia, boss fight music played a perfect little trick: when you
+get the boss under 50% life, the music subly changes to a major key. :100: out
+of :100:, will definitely steal.
+
 ## Geo(graph|metr)y
 At all times, the player is in an area; and every area is within a region. Every
 region has a musical theme; every area has a unique variation on that theme. The
 only exception is maybe if location is trumped by a surprise boss fight; but
 encounters should be geographically determined.
+
 ### Regions
 1. There are 4 or 5 regions surrounding the imperial continent.
 2. have one or two areas that are significant to the plot or that are subplots:
